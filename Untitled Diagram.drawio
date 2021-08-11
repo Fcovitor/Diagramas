@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-08-11T15:41:22.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" etag="sutq9VbBib9eF8traJSa" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-11T17:07:01.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" etag="8zdTnbYcH6N3deWWrRh9" version="14.9.6" type="github">
   <diagram id="pUPoVYKXmYZPgE-0Y4hJ" name="Page-1">
-    <mxGraphModel dx="868" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FTYc4txOeEdFTPNHwYB--14" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="270" width="30" height="60" as="geometry" />
+          <mxGeometry x="90" y="270" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FTYc4txOeEdFTPNHwYB--18" value="Loja - Simplificado" style="swimlane;verticalAlign=middle;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="140" y="90" width="410" height="375" as="geometry">
@@ -48,7 +48,7 @@
             <mxPoint x="310" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTYc4txOeEdFTPNHwYB--32" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="FTYc4txOeEdFTPNHwYB--32" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FTYc4txOeEdFTPNHwYB--14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="290" as="sourcePoint" />
             <mxPoint x="210" y="240" as="targetPoint" />
